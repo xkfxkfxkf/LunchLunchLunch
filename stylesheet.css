@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /*background-image: url('https://cdn3.volusion.com/r6rdn.hdjp5/v/vspfiles/photos/6300P050-2.jpg?1502966956');*/
+    background-repeat: no-repeat;
+    font-family: Arial;
+}
